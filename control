@@ -1,0 +1,9 @@
+Package: com.tomaszpoliszuk.flipswitchphonenoisecancellation
+Depends: firmware (>= 9.0), mobilesubstrate, com.a3tweaks.flipswitch
+Name: Flipswitch - Phone Noise Cancellation
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Flipswitch toggle for Noise Cancellation
+Author: Tomasz Poliszuk
+Section: Addons (Flipswitch)
+dev: tomaszpoliszuk
